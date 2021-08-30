@@ -2,5 +2,5 @@
 
 #How to Scrape members with termux
 1. `Install termux from PlayStore`
-      <h1>After installing termux run this command</h1>
+      <h6>After installing termux run this command</h6>
 2. `$ apt update`
