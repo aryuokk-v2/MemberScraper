@@ -6,7 +6,7 @@ How to Scrape members with termux
 1. `$ apt update` <br>
 2. `$ pkg install git` <br>
 3. `$ pkg install python` <br>
-4. `$ for clone https://github.com/stark-Prince/MemberScraper.git` <br>
+4. `$ git clone https://github.com/stark-Prince/MemberScraper.git` <br>
 5. `$ cd MemberScraper` <br>
 6. `$ ls` <br>
 7. `$ chmod +X *` <br>
