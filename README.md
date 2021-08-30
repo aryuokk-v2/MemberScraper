@@ -4,18 +4,19 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/termuxprofessor">
+  <a href="https://github.com/stark-Prince">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/termuxprofessor/Telegram-Scraper-Adder">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
+  <a href="https://github.com/stark-Prince/MemberScraper">
+    <img src="https://img.shields.io/github/stars/th3unkn0n/MemberScraper?style=social">
   </a>
 </p>
 <p align="center">
-  Telegram Scraper Adder
+  MemberScraper
 </p>
 <p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
+  Please dont import code, fork it instead.
+
 </p>
 
 ---
@@ -34,9 +35,9 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
+`$ git clone https://github.com/stark-Prince/MemberScraper`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd MemberScraper`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
@@ -49,10 +50,6 @@
 * Add Scarped members to your group. 
 
 `$ python adder.py`
-
-## • Watch Video Tutorial From Below
-* https://youtu.be/hNztfzMMPOc
----
 
 <p align="center">
   Follow Me On
