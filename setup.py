@@ -1,6 +1,3 @@
-#!/bin/env python3
-# code by : Termux Professor
-
 """
 
 you can re run setup.py 
@@ -20,8 +17,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Termux Professor on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}
+	{cy}
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
@@ -33,7 +30,7 @@ cpass = configparser.RawConfigParser()
 cpass.add_section('cred')
 xid = input(gr+"[+] enter api ID : "+re)
 cpass.set('cred', 'id', xid)
-xhash = input(gr+"[+] enter hash ID : "+re)
+xhash = input(gr+"[+] enter api hash : "+re)
 cpass.set('cred', 'hash', xhash)
 xphone = input(gr+"[+] enter phone number : "+re)
 cpass.set('cred', 'phone', xphone)
@@ -43,4 +40,4 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/termuxprofessor/TeleGram-Scraper-Adder/blob/master/README.md")
+print(gr+"[+] https://github.com/stark-Prince/MemberScraper/blob/master/README.md")
